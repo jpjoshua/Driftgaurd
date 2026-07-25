@@ -1,0 +1,12 @@
+{
+  "name": "driftguard",
+  "displayName": "Driftguard",
+  "description": "Keep open-knowledge-format bundles fresh, typed, and consistent.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Joshua Parker"
+  },
+  "license": "MIT",
+  "keywords": ["knowledge-base", "markdown", "memory", "audit", "taxonomy"],
+  "category": "productivity"
+}

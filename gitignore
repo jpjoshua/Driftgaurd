@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Local test artifacts (from validating okf_lint.py against real/synthetic bundles)
+test_bundle/
+knowledge-catalog/
+*.pyc

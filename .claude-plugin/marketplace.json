@@ -1,0 +1,20 @@
+{
+  "name": "driftguard",
+  "owner": {
+    "name": "Joshua Parker"
+  },
+  "description": "Tools for keeping open-knowledge-format bundles (folder-of-markdown memory) fresh, typed, and consistent.",
+  "plugins": [
+    {
+      "name": "driftguard",
+      "source": "./plugins/driftguard",
+      "description": "Audits, types, and initializes open-knowledge-format bundles.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Joshua Parker"
+      },
+      "keywords": ["knowledge-base", "markdown", "memory", "audit", "taxonomy"],
+      "category": "productivity"
+    }
+  ]
+}
