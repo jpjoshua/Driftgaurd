@@ -15,6 +15,10 @@ on:
       - 'plugins/driftguard/scripts/okf_lint.py'
       - 'spec_version_tested.txt'
 
+permissions:
+  contents: read
+  issues: write
+  
 jobs:
   check-drift:
     runs-on: ubuntu-latest
